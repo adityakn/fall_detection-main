@@ -31,7 +31,7 @@ Falls are a major health concern, especially for elderly individuals or patients
 
 ### Cloning the Repository
 ```bash
-git clone https://github.com/parichehrvn/fall-detection.git
+git clone https://github.com/adityakn/fall_detection-main.git
 cd fall-detection
 ```
 
